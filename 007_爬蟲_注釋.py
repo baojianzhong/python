@@ -17,3 +17,4 @@ print('中國是一個美麗沿海並且國土遼闊的國家！')
 # 我是一個單行注釋
 print('中國是一個美麗沿海並且國土遼闊的國家！')
 print('master commit！')
+print('hot-fix2 commit！')
